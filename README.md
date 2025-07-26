@@ -1,7 +1,7 @@
 # Security Helpy
 Making Security Breach more casual player friendly
 
-##### Note: Guides and GuideCreator are still in progress.
+##### Note: I use Security Helpy for learning new stuff, and I don't consider it stable.
 
 ## Prerequisites
 - Windows 10 or later / Any linux distribution. *Doesn't work on your distro? Open a issue.*
@@ -32,7 +32,7 @@ The most common targets are:
 
 ## FAQ
 **Can I contribute with the guides?**
-I'm currently working on it. With the release of 2.0 i will create a tool for contributing wit guides.
+Not yet, but i have plans on doing some kind of utility for contributing.
 
 **Is Mac/Iphone supported?**
 I don't plan on adding any kind of support to Mac or Iphone. You can compile by yourself the app, but **I will not attend issues that occur on Mac/Iphone.**
